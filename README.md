@@ -1,32 +1,29 @@
 # theNameCannotRemember
-video gaming.
+Developing video game strategies for dummies including me.
 
-Developing strategies for video game dummies.
+"Enter the Gungeon" and "Caveblazers"
 
 ## Contents
 
 ### Strategies for dummies
 
-Enter the Gungeon Strategy
+1. Enter the Gungeon Strategy
 
-Caveblazers
+1. Caveblazers
 
 
-### Strategies for dummies
+### Logs 
 
 (Gaming Log)[log.md]
 
 ## Links
 
-YouTube Channel : gaming log
-
-#theNameCannotRemember
-
 [YouTube Channel](https://www.youtube.com/@theNameCannotRemember)
 
 [Facebook](https://www.facebook.com/thenamecannotremember/)
 
-[Twitter / X]()
+[Twitter / X](https://twitter.com/theNameCantRMB)
+
 
 Coccoの真似をした鬼塚ちひろ
 裸足になってて思い出してんけど
@@ -34,9 +31,8 @@ Coccoの真似をした鬼塚ちひろ
 
 Caveblazers Strategy
 
-## Twitch
-  https://www.twitch.tv/thenamecannotremember/
-  Twitch : gaming. mainly play Caveblazers and Enter the Gungeon
+[Twitch](https://www.twitch.tv/thenamecannotremember/)
+
 
 ## Related Links
 YouTube Channel : aquarium #tobythemudskipper 
