@@ -1,7 +1,8 @@
-# theNameCannotRemember
-Developing video game strategies for dummies including me.
+# Video game strategies for dummies
 
-"Enter the Gungeon" and "Caveblazers"
+Me, theNameCannotRemember develops video game strategies for dummies.
+
+Even not good at video game playing, if you have a will, there is a way.
 
 ## Contents
 
@@ -9,70 +10,27 @@ Developing video game strategies for dummies including me.
 
 1. Enter the Gungeon Strategy
 
-1. Caveblazers
-
+1. Caveblazers Strategy
 
 ### Logs 
 
 (Gaming Log)[log.md]
 
-## Links
+## Activities
 
 [YouTube Channel](https://www.youtube.com/@theNameCannotRemember)
 
-[Facebook](https://www.facebook.com/thenamecannotremember/)
+[Facebook](https://www.facebook.com/thenamecannotremember/) 
 
-[Twitter / X](https://twitter.com/theNameCantRMB)
-
-
-Coccoの真似をした鬼塚ちひろ
-裸足になってて思い出してんけど
-鬼束ちひろ容疑者逮捕　友人の体調不良で呼んだ救急車蹴る「通行人に嫌味言われパニックに」
-
-Caveblazers Strategy
+[Twitter / X](https://twitter.com/theNameCantRMB) theNameCantRMB
 
 [Twitch](https://www.twitch.tv/thenamecannotremember/)
 
 
 ## Related Links
-YouTube Channel : aquarium #tobythemudskipper 
-  https://studio.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ
 
-
-[mudskipper] EN
-[mudskipper] JP
- pages
-  youtube
-  twitter integrated
-
-
-[gaming] EN
-pages
-
+[Keep Aquarium - lagoon](https://www.youtube.com/@2355toby) #tobythemudskipper
+Protect our natural environment and preserve mudflats.	    
 theNameCannotRememver
 
-youtube : @theNameCannotRememver
-  https://www.youtube.com/channel/UCyiYZQxsXqKwTKyzVo4xYoA
 
-twitch
-  https://www.twitch.tv/thenamecannotremember/
-
-twitter: @theNameCantRMB
- https://twitter.com/theNameCantRMB
-
-Facebook :
-  https://www.facebook.com/thenamecannotremember
-
-
-Twitter / X : integrated
-  
-
-ダベリング　
-結局もっと人と絡みたい、っていうだけなのかもしれない。
-
-
-
-
-
-拡散用なのか、コンテンツ集積なのか
-動線どうすんのか？
