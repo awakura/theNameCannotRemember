@@ -1,11 +1,8 @@
-# theNameCannotRemember
-video gaming.
+# theNameCannotRemember game play log
 
-Developing strategies for video game dummies.
 
-## Contents
 
-### Strategies for dummies
+### Vampire Survivors
 
 Enter the Gungeon Strategy
 
